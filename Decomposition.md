@@ -3,7 +3,9 @@
 
 ## Ne?
 Decomposition Türkçe ifade ile ayrıştırma, yazılım dünyasında nesne yönelimli tasarım prensibidir.  Çok karışık olan bir sistemi daha iyi anlamak, çözümlemek ve denetlemek için küçük parçalara bölme işlemidir. 
+
 ![Screenshot](img1.png)
+
 Yukarıda ki görsel de bir sistemin karışık halinin nasıl parçalara ayrıldığı gösterilmektedir. Bu şekilde parçalara ayırma durumuna Decomposition yani Ayrıştırma denir. Ve Decomposition nesne yönelimli tasarımın bir prensibidir.
 
 Son olarak Decomposition için üç tür ilişki vardır:
