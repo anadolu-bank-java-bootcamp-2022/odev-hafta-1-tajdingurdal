@@ -12,6 +12,7 @@ LSP için şu cümle söylenebilir “alt sınıflardan oluşan nesnelerin üst 
 
 ## Neden?
 
+Liskov Subsitute Princible bize iyi bir kalıtım hiyerarşisi sağlar. Ayrıca Open Close Princible ile benzerlik gösterir ve Open Close Prensibini iyi şekilde uygulamamızı sağlar. 
 
 ## Nasıl?
 
