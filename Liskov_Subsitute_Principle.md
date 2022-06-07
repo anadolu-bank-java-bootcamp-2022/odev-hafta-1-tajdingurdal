@@ -6,6 +6,7 @@ Liskov Subsitute Princible Türkçe ifade ile Yerine Geçme Prensibi, yazılım 
 Alt sınıfları, türedikleri Üst sınıfın yerine kullanılmasını sağlamaktadır.
 Alt sınıflar üst sınıfların tüm özelliklerini ve metotlarını kendi içerisinde barındırmanın yanında, kendine ait özellikleri de barındırmaktadır.
 LSP için şu cümle söylenebilir “alt sınıflardan oluşan nesnelerin üst sınıfın nesneleri ile yer değiştirdikleri zaman, aynı davranışı sergilemesini beklemektir.” Barbara Liskov’un ortaya attığı bu prensibe göre üst sınıf ile alt sınıf arasında davranış olarak hiçbir fark olmamalıdır. Yani birbirlerinin yerine kullanılabilmelidirler.
+
 Üst sınıfta yer alan bir fonksiyon alt sınıfta kullanılmayacaksa bu durum LSP’ye aykırı bir durumdur.
 
 
