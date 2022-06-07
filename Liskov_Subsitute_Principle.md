@@ -1,4 +1,4 @@
-# Liskov Subsitute Principle
+# Liskov Subsitute Principle (LSP)
 
 ## Ne?
 
