@@ -22,4 +22,5 @@ Bunu bir örnek ile izah etmek istiyorum.
 
 “UcakA”, “UcakB” ve “UcakC” hedefi vurma ve keşif yapma özelliklerine sahip oldukları için iki arayüzden de kalıtım almaktadırlar. “UcakD” ise sadece keşif yapabileceği için sadece “IUcakKesif” arayüzünden kalıtım almaktadır. Bu durumda herşey açık ve nettir. 
 
-“UcakD” sınıfının HedefVurma özelliği olmadığı için IHedefiVur Interfacesini implemente etmemiştir. “UcakD” sınıfı HedefVurma özelliği olmamasına rağmen IHedefVur Interfacesini implemente etseydi ve Override edeceği HedefiVur() metodunu boş bıraksaydı bu durum Liskov Subsitute Princible için ters bir durum olurdu.
+“UcakD” sınıfının HedefVurma özelliği olmadığı için IHedefiVur Interfacesini implemente etmemiştir. 
+“UcakD” sınıfı HedefVurma özelliği olmamasına rağmen IHedefVur Interfacesini implemente etseydi ve Override edeceği HedefiVur() metodunu boş bıraksaydı bu durum Liskov Subsitute Princible için ters bir durum olurdu.
